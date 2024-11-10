@@ -1,4 +1,3 @@
-Here’s a detailed set of notes covering **HDFS** and **Data Ingest with Flume and Sqoop** for your study. This should provide you with a thorough understanding of each concept and enough material to expand upon for your own notes.
 
 ---
 
@@ -42,7 +41,7 @@ Here’s a detailed set of notes covering **HDFS** and **Data Ingest with Flume 
 
 ---
 
-# The Design of HDFS (Hadoop Distributed File System)
+## 1. The Design of HDFS (Hadoop Distributed File System)
 
 ### Overview of HDFS
    - **Purpose**: HDFS (Hadoop Distributed File System) is designed to reliably store large datasets across multiple machines in a distributed environment. Its architecture is highly fault-tolerant and supports the storage and analysis of vast data volumes.
