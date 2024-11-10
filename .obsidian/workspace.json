@@ -136,9 +136,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "notes_for_7th_sem/Big DATA Analysis/Unit-1.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Unit-1"
             }
           },
           {
@@ -169,7 +171,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "381c7a4ca7183847",
+  "active": "df69056fcaa90265",
   "lastOpenFiles": [
     "Untitled.canvas",
     "notes_for_7th_sem/Big DATA Analysis/Unit-1.md",
