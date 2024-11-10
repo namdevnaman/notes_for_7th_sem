@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes_for_7th_sem/Big DATA Analysis/Unit-1.md",
+                "file": "notes_for_7th_sem/Big DATA Analysis/Unit-2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unit-1"
+              "title": "Unit-2"
             }
           }
         ]
@@ -137,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes_for_7th_sem/Big DATA Analysis/Unit-1.md"
+                "file": "notes_for_7th_sem/Big DATA Analysis/Unit-2.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Unit-1"
+              "title": "Outline of Unit-2"
             }
           },
           {
@@ -171,10 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df69056fcaa90265",
+  "active": "6e28959e3689b220",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "notes_for_7th_sem/Big DATA Analysis/Unit-1.md",
+    "notes_for_7th_sem/Big DATA Analysis/Unit-2.md",
+    "Untitled.canvas",
     "notes_for_7th_sem/Big DATA Analysis"
   ]
 }
