@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes_for_7th_sem/PGM/Untitled.md",
+                "file": "PGM/Untitled.md",
                 "mode": "source",
                 "source": false
               },
@@ -171,15 +171,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e28959e3689b220",
+  "active": "381c7a4ca7183847",
   "lastOpenFiles": [
-    "notes_for_7th_sem/Big DATA Analysis/UNIT III.md",
-    "notes_for_7th_sem/PGM/Untitled.md",
-    "notes_for_7th_sem/PGM",
-    "notes_for_7th_sem/Big DATA Analysis/Unit-2.md",
-    "notes_for_7th_sem/Big DATA Analysis/Unit-1.md",
+    "Big DATA Analysis/UNIT III.md",
+    "PGM/Untitled.md",
+    "PGM",
+    "Big DATA Analysis/Unit-2.md",
+    "Big DATA Analysis/Unit-1.md",
     "notes_for_7th_sem/Big DATA Analysis/Unit-1 (Hadoop Ecosystem).md",
     "Untitled.canvas",
-    "notes_for_7th_sem/Big DATA Analysis"
+    "Big DATA Analysis"
   ]
 }
